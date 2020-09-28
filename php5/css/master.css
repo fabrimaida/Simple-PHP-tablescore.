@@ -1,0 +1,8 @@
+li {
+  margin:5vh 0;
+  font-size: 1.5rem;
+}
+li:hover {
+  cursor: pointer;
+  color: red;
+}
